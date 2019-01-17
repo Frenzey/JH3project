@@ -126,16 +126,13 @@ disposition sur le site web, ainsi que voir les enchères en temps réel. Il pou
 - Administrateur: Utilisateur qui pourra naviguer sur le site comme un utilisateur connecté, mais qui aura également la capacité de gérer les comptes utilisateurs de la plateforme ( ajouter,gérer,supprimer compte...).</p> <br> <br>
 
 <h3>4.3 - Fonctionnalités</h3>
-<p>L’application eBayLite proposera l’implémentation de plusieurs services
-métiers, ceux-ci étant définis pour un type d’utilisateur précis <br>
-Admin: Se connecter, gérer les clients (ajouter/modifier/supprimer
-un client), attribuer des droits à un client, gérer les catégories
-(ajouter/modifier/supprimer une catégorie), gérer les articles mis en ligne sur les
-site (ajouter/modifier/supprimer des articles).
-Visiteur: Rechercher un article, afficher son panier, enchérir, afficher
+<p>L’application eBayLite proposera l’implémentation de plusieurs services métiers, ceux-ci étant définis pour un type d’utilisateur précis <br>
+
+ - Admin: Se connecter, gérer les clients (ajouter/modifier/supprimer un client), attribuer des droits à un client, gérer les catégories (ajouter/modifier/supprimer une catégorie), gérer les articles mis en ligne sur les site (ajouter/modifier/supprimer des articles).
+- Visiteur: Rechercher un article, afficher son panier, enchérir, afficher
 un article, ajouter un article à son panier, se connecter/s’inscrire, accéder à une
 catégorie.
-Client: Se connecter/s’inscrire, rechercher un article, accéder à une
+- Client: Se connecter/s’inscrire, rechercher un article, accéder à une
 catégorie, afficher son panier, enchérir, afficher un article, ajouter un article à son
 panier, passer commande, gérer ses enchères, gérer ses ventes, ajouter un article
 à vendre, modifier ses informations personnelles.
@@ -263,9 +260,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTgxNjg5NCwxODcwNTM2MDUwLC0yNj
-Y1OTkzMTgsLTEyMjQyMjE1MDIsLTI3OTM3NzM0NCwxNjgyNzgz
-MDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMT
-U0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2
-OTM4NTVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDEzMjYyMjksMTg3MDUzNjA1MCwtMj
+Y2NTk5MzE4LC0xMjI0MjIxNTAyLC0yNzkzNzczNDQsMTY4Mjc4
+MzAyOCw3ODMxMTk3MzgsNzUxMzAwODYwLDE5ODUxMTQ3NzgsLT
+E1NDY3NTAxMDYsLTE1NTQ2NTUzMDQsMTcxODExMTI5LC0xOTMz
+NjkzODU1XX0=
 -->
