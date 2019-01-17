@@ -1,9 +1,9 @@
-# Cahier des charges
+<h1>Cahier des charges</h1>
 
 Par 
-**Firenze AMORIN
+>**<b>Firenze AMORIN
 Lyes BELKHIRI
-Yahia RAHMANI**
+Yahia RAHMANI**</b>
 
 <img src="https://image.noelshack.com/fichiers/2019/03/4/1547713263-48418119-534039863777521-6212785144168710144-n.png" width=400px height= 200px align='center'>
 
@@ -66,7 +66,7 @@ qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service
 
 <h3>3.1 - Charte graphique</h3>
 <h4>LE LOGO :</h4><p>Pour le site, le client à décidé de choisir ce logo parmi d’autre qui lui ont été
-proposés <img src="https://image.noelshack.com/minis/2019/03/4/1547719801-48418119-534039863777521-6212785144168710144-n.png" border="0" alt="1547719801-48418119-534039863777521-6212785144168710144-n.png - envoi d'image avec NoelShack" title="1547719801-48418119-534039863777521-6212785144168710144-n.png" width=250px height= 200px align='center'/>  </p> <br>
+proposés: <br/> <img src="https://image.noelshack.com/minis/2019/03/4/1547719801-48418119-534039863777521-6212785144168710144-n.png" border="0" alt="1547719801-48418119-534039863777521-6212785144168710144-n.png - envoi d'image avec NoelShack" title="1547719801-48418119-534039863777521-6212785144168710144-n.png" width=250px height= 200px align='center'/>  </p> <br>
 
 <h4><p>LES MAQUETTES ET LES COULEURS :</h4>
 Pour l’interface d’accueil : <br> <br>
@@ -86,7 +86,17 @@ Pour l’interface d’accueil : <br> <br>
 pouvant être vendeur ou enchérisseur (=acheteur) ,
 - Une troisième portant sur un utilisateur visiteur.</p>
 
-><b>Maquettes & Wireframes Administrateur </b>:
+><b>Wireframes Administrateur: </b> <br>
+
+ <img src="" width="" height="">
+
+><b>Wireframes Visiteur: </b> <br>
+
+ <img src="" width="" height="">
+
+><b>Wireframes Client Vendeur/Enchérisseur: </b> <br>
+
+ <img src="" width="" height="">
 
 	
 
@@ -214,8 +224,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjU5OTMxOCwtMTIyNDIyMTUwMiwtMj
-c5Mzc3MzQ0LDE2ODI3ODMwMjgsNzgzMTE5NzM4LDc1MTMwMDg2
-MCwxOTg1MTE0Nzc4LC0xNTQ2NzUwMTA2LC0xNTU0NjU1MzA0LD
-E3MTgxMTEyOSwtMTkzMzY5Mzg1NV19
+eyJoaXN0b3J5IjpbMTg3MDUzNjA1MCwtMjY2NTk5MzE4LC0xMj
+I0MjIxNTAyLC0yNzkzNzczNDQsMTY4Mjc4MzAyOCw3ODMxMTk3
+MzgsNzUxMzAwODYwLDE5ODUxMTQ3NzgsLTE1NDY3NTAxMDYsLT
+E1NTQ2NTUzMDQsMTcxODExMTI5LC0xOTMzNjkzODU1XX0=
 -->
