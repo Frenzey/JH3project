@@ -79,6 +79,8 @@ Pour l’interface d’accueil : <br> <br>
 > Veillez cliquer sur celles-ci pour visualiser les images.
 
 <h4>WIREFRAME</h4>
+
+
 	 
 ## Delete a file
 
@@ -203,8 +205,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTM3NzM0NCwxNjgyNzgzMDI4LDc4Mz
-ExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMTU0Njc1MDEw
-NiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2OTM4NTVdfQ
-==
+eyJoaXN0b3J5IjpbLTEzMzQxOTY1ODAsLTI3OTM3NzM0NCwxNj
+gyNzgzMDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3
+OCwtMTU0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLT
+E5MzM2OTM4NTVdfQ==
 -->
