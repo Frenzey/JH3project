@@ -100,6 +100,8 @@ pouvant être vendeur ou enchérisseur (=acheteur) ,
 ><b>Wireframes Client Vendeur/Enchérisseur: </b> <br>
 
  <img src="" width="" height=""> <br>
+ <img src="" width="" height=""> <br>
+ <img src="" width="" height=""> <br>
  <img src="" width="" height=""> <br> 
 
 <br> <br>
@@ -230,9 +232,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE2OTU1NTAsMTg3MDUzNjA1MCwtMj
-Y2NTk5MzE4LC0xMjI0MjIxNTAyLC0yNzkzNzczNDQsMTY4Mjc4
-MzAyOCw3ODMxMTk3MzgsNzUxMzAwODYwLDE5ODUxMTQ3NzgsLT
-E1NDY3NTAxMDYsLTE1NTQ2NTUzMDQsMTcxODExMTI5LC0xOTMz
-NjkzODU1XX0=
+eyJoaXN0b3J5IjpbMjQyMTM5ODc0LDE4NzA1MzYwNTAsLTI2Nj
+U5OTMxOCwtMTIyNDIyMTUwMiwtMjc5Mzc3MzQ0LDE2ODI3ODMw
+MjgsNzgzMTE5NzM4LDc1MTMwMDg2MCwxOTg1MTE0Nzc4LC0xNT
+Q2NzUwMTA2LC0xNTU0NjU1MzA0LDE3MTgxMTEyOSwtMTkzMzY5
+Mzg1NV19
 -->
