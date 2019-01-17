@@ -35,8 +35,7 @@ Email : julien.Hairapian@univ-evry.fr
 ## <a id="int">I - INTRODUCTION </a>
 
  1.1 - Description du document
-Le document a pour but de préciser le besoin vis à vis du projet pour le client. Il spécifie les besoins techniques et fonctionnels de l'application tout en donnant des informations sur le comportement de celle-ci et les possibles implémentation qu'elle peut avoir. 
-
+Le document a pour but de préciser le besoin vis à vis du projet pour le client. Il spécifie les besoins techniques et fonctionnels de l'application tout en donnant des informations sur le comportement de celle-ci et les possibles implémentation qu'elle peut avoir.  <br>
 1.2 - Présentation du contexte
 Dans le cadre de notre formation Master 1 MIAGE en apprentissage,
 nous avons été chargés de créer une application web basée sur le
@@ -48,16 +47,21 @@ application, puis détailler les fonctionnalités que doit fournir notre
 application, lister les utilisateurs concernés, et présenter une
 première version de notre wireframe. Ce document apporte une
 première esquisse de notre projet, ainsi que certains éléments de
-réponse qui seront sujets à amélioration.
+réponse qui seront sujets à amélioration. <br>
 
 ## <a href="#obj">II - OBJECTIFS ET ENJEUX </a>
 
+2.1 - Objectifs de l'application
 Cette application est une application web de ventes aux enchères, ça sera un
 moyen de courtage et ça consiste à servir d’intermédiaire entre un acheteur et un
 vendeur, et ces services sont à disposition de toute personne inscrite sur le site.
 En plus des ventes aux enchères, l’application a pour objectif d’offrir la
 possibilité d’achat immédiat, quelque soit l’état de l’objet (neuf, d’occasion, hors
-service...).
+service...). <br>
+
+2.2 - Cibles
+Nous visons toute personne, physique ou morale, professionnel ou particulier,
+qui veut effectuer une vente d’un objet ou d’un service, ou qui veut en acheter.
 
 ## Rename a file
 
@@ -186,6 +190,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODU5MDQ0OSwtMTU1NDY1NTMwNCwxNz
+eyJoaXN0b3J5IjpbMTc3MTI0OTkyOSwtMTU1NDY1NTMwNCwxNz
 E4MTExMjksLTE5MzM2OTM4NTVdfQ==
 -->
