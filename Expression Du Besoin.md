@@ -62,9 +62,12 @@ service...). <br>
 Nous visons toute personne physique ou morale, professionnel ou particulier,
 qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service) ou qui pourrait vouloir acheter un des articles disponibles.  <br>
 
-## <a hre="graph">III - GRAPHISME ET ERGONOMIE </a>
+## <a id="graph">III - GRAPHISME ET ERGONOMIE</a>
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+<h23.1 - Charte graphique
+LE LOGO :
+Pour le site, le client à décidé de choisir ce logo parmi d’autre qui lui ont été
+proposés
 
 ## Delete a file
 
@@ -189,6 +192,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEyNDIxNywtMTU1NDY1NTMwNCwxNz
-E4MTExMjksLTE5MzM2OTM4NTVdfQ==
+eyJoaXN0b3J5IjpbNjIxODE2MTU3LC0xNTU0NjU1MzA0LDE3MT
+gxMTEyOSwtMTkzMzY5Mzg1NV19
 -->
