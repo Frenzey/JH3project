@@ -5,7 +5,7 @@ Par
 Lyes BELKHIRI
 Yahia RAHMANI**</b>
 
-<img src="https://image.noelshack.com/fichiers/2019/03/4/1547713263-48418119-534039863777521-6212785144168710144-n.png" width=400px height= 200px vertical-align="middle">
+<img src="https://image.noelshack.com/fichiers/2019/03/4/1547713263-48418119-534039863777521-6212785144168710144-n.png" width=400px height= 200px align='center' margin="600px">
 
 Nom du projet : **JH3**
 Personne à contacter à l’université: **Julien Hairapian**.
@@ -255,9 +255,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTg1NzEyNCwxODcwNTM2MDUwLC0yNj
-Y1OTkzMTgsLTEyMjQyMjE1MDIsLTI3OTM3NzM0NCwxNjgyNzgz
-MDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMT
-U0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2
-OTM4NTVdfQ==
+eyJoaXN0b3J5IjpbLTEwMDM3NTIwMDAsMTg3MDUzNjA1MCwtMj
+Y2NTk5MzE4LC0xMjI0MjIxNTAyLC0yNzkzNzczNDQsMTY4Mjc4
+MzAyOCw3ODMxMTk3MzgsNzUxMzAwODYwLDE5ODUxMTQ3NzgsLT
+E1NDY3NTAxMDYsLTE1NTQ2NTUzMDQsMTcxODExMTI5LC0xOTMz
+NjkzODU1XX0=
 -->
