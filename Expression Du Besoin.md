@@ -66,7 +66,7 @@ qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service
 
 <h3>3.1 - Charte graphique</h3>
 <p>LE LOGO : <br>Pour le site, le client à décidé de choisir ce logo parmi d’autre qui lui ont été
-proposés <a href="https://www.noelshack.com/2019-03-4-1547719801-48418119-534039863777521-6212785144168710144-n.png"><img src="https://image.noelshack.com/minis/2019/03/4/1547719801-48418119-534039863777521-6212785144168710144-n.png" border="0" alt="1547719801-48418119-534039863777521-6212785144168710144-n.png - envoi d'image avec NoelShack" title="1547719801-48418119-534039863777521-6212785144168710144-n.png"/></a>  </p> <br>
+proposés <img src="https://image.noelshack.com/minis/2019/03/4/1547719801-48418119-534039863777521-6212785144168710144-n.png" border="0" alt="1547719801-48418119-534039863777521-6212785144168710144-n.png - envoi d'image avec NoelShack" title="1547719801-48418119-534039863777521-6212785144168710144-n.png" width=200px height= 100px align='center'/>  </p> <br>
 
 <p>LES MAQUETTES ET LES COULEURS : <br>
 Pour l’interface d’accueil : 
@@ -203,7 +203,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwMjI3MjAyLDE2ODI3ODMwMjgsNzgzMT
-E5NzM4LDc1MTMwMDg2MCwxOTg1MTE0Nzc4LC0xNTQ2NzUwMTA2
-LC0xNTU0NjU1MzA0LDE3MTgxMTEyOSwtMTkzMzY5Mzg1NV19
+eyJoaXN0b3J5IjpbMTgyNTM2MzU5MiwxNjgyNzgzMDI4LDc4Mz
+ExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMTU0Njc1MDEw
+NiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2OTM4NTVdfQ
+==
 -->
