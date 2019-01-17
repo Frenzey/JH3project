@@ -62,7 +62,7 @@ service...). <br>
 Nous visons toute personne physique ou morale, professionnel ou particulier,
 qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service) ou qui pourrait vouloir acheter un des articles disponibles.  <br>
 
-## Rename a file
+## <a hre="graph">III - GRAPHISME ET ERGONOMIE </a>
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
@@ -189,6 +189,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTAwOTQzMSwtMTU1NDY1NTMwNCwxNz
+eyJoaXN0b3J5IjpbLTIwNjEyNDIxNywtMTU1NDY1NTMwNCwxNz
 E4MTExMjksLTE5MzM2OTM4NTVdfQ==
 -->
