@@ -34,7 +34,7 @@ Email : julien.Hairapian@univ-evry.fr
 
 ## <a id="int">I - INTRODUCTION </a>
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+<p > 1.1 - Description du document </p>
 
 ## Switch to another file
 
@@ -167,5 +167,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxMzM3OTY3LC0xOTMzNjkzODU1XX0=
+eyJoaXN0b3J5IjpbMzA3ODAwMjM4LC0xOTMzNjkzODU1XX0=
 -->
