@@ -34,9 +34,9 @@ Email : julien.Hairapian@univ-evry.fr
 ## <a id="int">I - INTRODUCTION </a>
 
  <h3>1.1 - Description du document </h3>
-Le document a pour but de préciser le besoin vis à vis du projet pour le client. Il spécifie les besoins techniques et fonctionnels de l'application tout en donnant des informations sur le comportement de celle-ci et les possibles implémentation qu'elle peut avoir.  <br>
+<p>Le document a pour but de préciser le besoin vis à vis du projet pour le client. Il spécifie les besoins techniques et fonctionnels de l'application tout en donnant des informations sur le comportement de celle-ci et les possibles implémentation qu'elle peut avoir. </p>
 <h3>1.2 - Présentation du contexte </h3>
-Dans le cadre de notre formation Master 1 MIAGE en apprentissage,
+<p>Dans le cadre de notre formation Master 1 MIAGE en apprentissage,
 nous avons été chargés de créer une application web basée sur le
 même principe que le site eBay, mais qui sera une application lite,
 c’est-à-dire allégée par rapport l’application originale.
@@ -46,7 +46,7 @@ application, puis détailler les fonctionnalités que doit fournir notre
 application, lister les utilisateurs concernés, et présenter une
 première version de notre wireframe. Ce document apporte une
 première esquisse de notre projet, ainsi que certains éléments de
-réponse qui seront sujets à amélioration. <br>
+réponse qui seront sujets à amélioration.</p> <br>
 
 ## <a id="obj">II - OBJECTIFS ET ENJEUX </a>
 
@@ -56,7 +56,7 @@ moyen de courtage et ça consiste à servir d’intermédiaire entre un acheteur
 vendeur, et ces services sont à disposition de toute personne inscrite sur le site.
 En plus des ventes aux enchères, l’application a pour objectif d’offrir la
 possibilité d’achat immédiat, quelque soit l’état de l’objet (neuf, d’occasion, hors
-service...).< <br>
+service...).</p>
 
 <h3>2.2 - Cibles </h3>
 <p>Nous visons toute personne physique ou morale, professionnel ou particulier,
@@ -191,6 +191,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Nzk4NTI1NCwtMTU0Njc1MDEwNiwtMT
+eyJoaXN0b3J5IjpbMTcyNTAyNzgyOSwtMTU0Njc1MDEwNiwtMT
 U1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2OTM4NTVdfQ==
 -->
