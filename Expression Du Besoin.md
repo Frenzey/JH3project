@@ -70,7 +70,7 @@ proposés <img src="https://image.noelshack.com/fichiers/2019/03/4/1547713263-48
 
 <p>LES MAQUETTES ET LES COULEURS : <br>
 Pour l’interface d’accueil : 
-<a href="https://www.noelshack.com/2019-03-4-1547719749-48406033-318267672121128-5898184867115433984-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719749-48406033-318267672121128-5898184867115433984-n.png" border="0" alt="1547719749-48406033-318267672121128-5898184867115433984-n.jpg - envoi d'image avec NoelShack" title="1547719749-48406033-318267672121128-5898184867115433984-n.jpg"/></a></p>
+<a href="https://www.noelshack.com/2019-03-4-1547719749-48406033-318267672121128-5898184867115433984-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719749-48406033-318267672121128-5898184867115433984-n.png"/></a></p>
 
 
 
@@ -199,7 +199,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Mjc4MzAyOCw3ODMxMTk3MzgsNzUxMz
-AwODYwLDE5ODUxMTQ3NzgsLTE1NDY3NTAxMDYsLTE1NTQ2NTUz
-MDQsMTcxODExMTI5LC0xOTMzNjkzODU1XX0=
+eyJoaXN0b3J5IjpbLTc0NzY2OTg4MywxNjgyNzgzMDI4LDc4Mz
+ExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMTU0Njc1MDEw
+NiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2OTM4NTVdfQ
+==
 -->
