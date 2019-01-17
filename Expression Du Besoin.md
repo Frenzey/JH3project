@@ -137,15 +137,13 @@ D’autres potentielles fonctionnalités sont à définir par la suite avec le c
 ventes/enchères, donner nouvel article</p>
 
 ## <a id="ext">V - EXIGENCES TECHNIQUES </a>
-<p>Afin de mener à bien notre projet, nous avons identifié certaines exigences qui pourraient nous permettre de répondre aux besoins client, pour obtenir le résultat le plus satisfaisant:
-- L'interface de notre application doit être conviviale et simple d’utilisation, l'objectif étant de la rendre la plus intuitive possible. br
-- Sécurité: Les données de nos utilisateurs doivent être scrupuleusement
-protégées afin d'offrir un certain confort et établir une relation de confiance avec les
-clients.
-- Performance: Nous attacherons une attention particulière à ce que le temps
-de réponse soit raisonnable .
-- Possibilité d'effectuer des mises à jour, ainsi que des ajouts de
-fonctionnalités au fur et à mesure de l'avancement du projet</p>
+<p>Afin de mener à bien notre projet, nous avons identifié certaines exigences qui pourraient nous permettre de répondre aux besoins client, pour obtenir le résultat le plus satisfaisant:<br>
+
+ - `List item`
+ - L'interface de notre application doit être conviviale et simple d’utilisation, l'objectif étant de la rendre la plus intuitive possible. <br>
+ - Sécurité: Les données de nos utilisateurs doivent être scrupuleusement protégées afin d'offrir un certain confort et établir une relation de confiance avec les clients. <br>
+ - Performance: Nous attacherons une attention particulière à ce que le temps de réponse soit raisonnable. <br>
+ - Possibilité d'effectuer des mises à jour, ainsi que des ajouts de fonctionnalités au fur et à mesure de l'avancement du projet</p>
 
 
 # Synchronization
@@ -262,7 +260,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzYwNjQ3NjYsLTEwMDM3NTIwMDAsMT
+eyJoaXN0b3J5IjpbLTEzNjY3ODM3OTYsLTEwMDM3NTIwMDAsMT
 g3MDUzNjA1MCwtMjY2NTk5MzE4LC0xMjI0MjIxNTAyLC0yNzkz
 NzczNDQsMTY4Mjc4MzAyOCw3ODMxMTk3MzgsNzUxMzAwODYwLD
 E5ODUxMTQ3NzgsLTE1NDY3NTAxMDYsLTE1NTQ2NTUzMDQsMTcx
