@@ -5,7 +5,7 @@ Par
 Lyes BELKHIRI
 Yahia RAHMANI**</b>
 
-<img src="https://image.noelshack.com/fichiers/2019/03/4/1547713263-48418119-534039863777521-6212785144168710144-n.png" width=400px height= 200px align='center'>
+<img src="https://image.noelshack.com/fichiers/2019/03/4/1547713263-48418119-534039863777521-6212785144168710144-n.png" width=400px height= 200px vertical-align="middle">
 
 Nom du projet : **JH3**
 Personne à contacter à l’université: **Julien Hairapian**.
@@ -27,8 +27,7 @@ Email : julien.Hairapian@univ-evry.fr
 4.1 - Présentation générale
 4.2 - Utilisateurs
 4.3 - Fonctionnalités
-4.4 - Inventaire des données nécessaires
-4.5 - Autres exigences fonctionnelles <br/>
+4.4 - Inventaire des données nécessaires <br/>
 5. <a href="#ext"> EXIGENCES TECHNIQUES </a> 
 
 ## <a id="int">I - INTRODUCTION </a>
@@ -256,7 +255,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTI1NDc1MSwxODcwNTM2MDUwLC0yNj
+eyJoaXN0b3J5IjpbLTI1NTg1NzEyNCwxODcwNTM2MDUwLC0yNj
 Y1OTkzMTgsLTEyMjQyMjE1MDIsLTI3OTM3NzM0NCwxNjgyNzgz
 MDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMT
 U0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2
