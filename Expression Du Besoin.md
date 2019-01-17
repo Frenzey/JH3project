@@ -134,8 +134,8 @@ disposition sur le site web, ainsi que voir les enchères en temps réel. Il pou
 <img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Cr%C3%A9er%20un%20compte.PNG">
 <br>
 - Client: Se connecter/s’inscrire, rechercher un article, accéder à une catégorie, afficher son panier, enchérir, afficher un article, ajouter un article à son panier, passer commande, gérer ses enchères, gérer ses ventes, ajouter un article à vendre, modifier ses informations personnelles.
-<img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Identification.PNG"> <br>
-<img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Identification.PNG"> <br>
+<img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Acheteur.PNG"> <br>
+<img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Vendeur.PNG"> <br>
 <img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Identification.PNG"> <br>
 D’autres potentielles fonctionnalités sont à définir par la suite avec le client.</p> 
 
@@ -267,10 +267,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTM3MDI0NywtNTY3NTY3MjU0LC0xOT
-E1OTcwOTM4LDE5Njk2MTU0MCwtMTAwMzc1MjAwMCwxODcwNTM2
-MDUwLC0yNjY1OTkzMTgsLTEyMjQyMjE1MDIsLTI3OTM3NzM0NC
-wxNjgyNzgzMDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTEx
-NDc3OCwtMTU0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMj
-ksLTE5MzM2OTM4NTVdfQ==
+eyJoaXN0b3J5IjpbLTE3ODQxOTM4MzksLTU2NzU2NzI1NCwtMT
+kxNTk3MDkzOCwxOTY5NjE1NDAsLTEwMDM3NTIwMDAsMTg3MDUz
+NjA1MCwtMjY2NTk5MzE4LC0xMjI0MjIxNTAyLC0yNzkzNzczND
+QsMTY4Mjc4MzAyOCw3ODMxMTk3MzgsNzUxMzAwODYwLDE5ODUx
+MTQ3NzgsLTE1NDY3NTAxMDYsLTE1NTQ2NTUzMDQsMTcxODExMT
+I5LC0xOTMzNjkzODU1XX0=
 -->
