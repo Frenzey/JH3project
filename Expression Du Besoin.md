@@ -33,7 +33,7 @@ Email : julien.Hairapian@univ-evry.fr
 
 ## <a id="int">I - INTRODUCTION </a>
 
- 1.1 - Description du document
+ <h3>1.1 - Description du document </h3>
 Le document a pour but de préciser le besoin vis à vis du projet pour le client. Il spécifie les besoins techniques et fonctionnels de l'application tout en donnant des informations sur le comportement de celle-ci et les possibles implémentation qu'elle peut avoir.  <br>
 1.2 - Présentation du contexte
 Dans le cadre de notre formation Master 1 MIAGE en apprentissage,
@@ -50,7 +50,7 @@ réponse qui seront sujets à amélioration. <br>
 
 ## <a id="obj">II - OBJECTIFS ET ENJEUX </a>
 
-2.1 - Objectifs de l'application
+<h3>2.1 - Objectifs de l'application</h3>
 Cette application est une application web de ventes aux enchères, ça sera un
 moyen de courtage et ça consiste à servir d’intermédiaire entre un acheteur et un
 vendeur, et ces services sont à disposition de toute personne inscrite sur le site.
@@ -58,13 +58,13 @@ En plus des ventes aux enchères, l’application a pour objectif d’offrir la
 possibilité d’achat immédiat, quelque soit l’état de l’objet (neuf, d’occasion, hors
 service...). <br>
 
-2.2 - Cibles
+<h3>2.2 - Cibles </h3>
 Nous visons toute personne physique ou morale, professionnel ou particulier,
 qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service) ou qui pourrait vouloir acheter un des articles disponibles.  <br>
 
 ## <a id="graph">III - GRAPHISME ET ERGONOMIE</a>
 
-<h23.1 - Charte graphique
+<h3>3.1 - Charte graphique</h3>
 LE LOGO :
 Pour le site, le client à décidé de choisir ce logo parmi d’autre qui lui ont été
 proposés
@@ -192,6 +192,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxODE2MTU3LC0xNTU0NjU1MzA0LDE3MT
-gxMTEyOSwtMTkzMzY5Mzg1NV19
+eyJoaXN0b3J5IjpbLTE1MTQ1NDI2NzMsLTE1NTQ2NTUzMDQsMT
+cxODExMTI5LC0xOTMzNjkzODU1XX0=
 -->
