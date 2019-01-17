@@ -129,7 +129,10 @@ disposition sur le site web, ainsi que voir les enchères en temps réel. Il pou
  - Admin: Se connecter, gérer les clients (ajouter/modifier/supprimer un client), attribuer des droits à un client, gérer les catégories (ajouter/modifier/supprimer une catégorie), gérer les articles mis en ligne sur les site (ajouter/modifier/supprimer des articles). <br> 
 <img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Admin.PNG">
  <br>
-- Visiteur: Rechercher un article, afficher son panier, enchérir, afficher un article, ajouter un article à son panier, se connecter/s’inscrire, accéder à une catégorie. <br><br>
+- Visiteur: Rechercher un article, afficher son panier, enchérir, afficher un article, ajouter un article à son panier, se connecter/s’inscrire, accéder à une catégorie. <br>
+<img src=""> <br>
+<img src="">
+<br>
 - Client: Se connecter/s’inscrire, rechercher un article, accéder à une catégorie, afficher son panier, enchérir, afficher un article, ajouter un article à son panier, passer commande, gérer ses enchères, gérer ses ventes, ajouter un article à vendre, modifier ses informations personnelles.
 D’autres potentielles fonctionnalités sont à définir par la suite avec le client.</p> 
 
@@ -261,10 +264,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzU2NzI1NCwtMTkxNTk3MDkzOCwxOT
-Y5NjE1NDAsLTEwMDM3NTIwMDAsMTg3MDUzNjA1MCwtMjY2NTk5
-MzE4LC0xMjI0MjIxNTAyLC0yNzkzNzczNDQsMTY4Mjc4MzAyOC
-w3ODMxMTk3MzgsNzUxMzAwODYwLDE5ODUxMTQ3NzgsLTE1NDY3
-NTAxMDYsLTE1NTQ2NTUzMDQsMTcxODExMTI5LC0xOTMzNjkzOD
-U1XX0=
+eyJoaXN0b3J5IjpbNzM5NDQxNDM2LC01Njc1NjcyNTQsLTE5MT
+U5NzA5MzgsMTk2OTYxNTQwLC0xMDAzNzUyMDAwLDE4NzA1MzYw
+NTAsLTI2NjU5OTMxOCwtMTIyNDIyMTUwMiwtMjc5Mzc3MzQ0LD
+E2ODI3ODMwMjgsNzgzMTE5NzM4LDc1MTMwMDg2MCwxOTg1MTE0
+Nzc4LC0xNTQ2NzUwMTA2LC0xNTU0NjU1MzA0LDE3MTgxMTEyOS
+wtMTkzMzY5Mzg1NV19
 -->
