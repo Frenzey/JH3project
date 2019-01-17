@@ -66,11 +66,15 @@ qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service
 
 <h3>3.1 - Charte graphique</h3>
 <p>LE LOGO : <br>Pour le site, le client à décidé de choisir ce logo parmi d’autre qui lui ont été
-proposés <img src="https://image.noelshack.com/fichiers/2019/03/4/1547713263-48418119-534039863777521-6212785144168710144-n.png" width=400px height= 200px align='center' margin-bottom="20px">  </p> <br>
+proposés <a href="https://www.noelshack.com/2019-03-4-1547719801-48418119-534039863777521-6212785144168710144-n.png"><img src="https://image.noelshack.com/minis/2019/03/4/1547719801-48418119-534039863777521-6212785144168710144-n.png" border="0" alt="1547719801-48418119-534039863777521-6212785144168710144-n.png - envoi d'image avec NoelShack" title="1547719801-48418119-534039863777521-6212785144168710144-n.png"/></a>  </p> <br>
 
 <p>LES MAQUETTES ET LES COULEURS : <br>
 Pour l’interface d’accueil : 
-<a href="https://www.noelshack.com/2019-03-4-1547719749-48406033-318267672121128-5898184867115433984-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719749-48406033-318267672121128-5898184867115433984-n.png"/></a></p>
+<a href="https://www.noelshack.com/2019-03-4-1547719749-48406033-318267672121128-5898184867115433984-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719749-48406033-318267672121128-5898184867115433984-n.png"/></a>
+<a href="https://www.noelshack.com/2019-03-4-1547719763-48398420-784516268555816-9129848750322221056-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719763-48398420-784516268555816-9129848750322221056-n.png" border="0" alt="1547719763-48398420-784516268555816-9129848750322221056-n.jpg - envoi d'image avec NoelShack" title="1547719763-48398420-784516268555816-9129848750322221056-n.jpg"/></a>
+<a href="https://www.noelshack.com/2019-03-4-1547719768-48403619-202547290694692-8334010431567822848-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719768-48403619-202547290694692-8334010431567822848-n.png" border="0" alt="1547719768-48403619-202547290694692-8334010431567822848-n.jpg - envoi d'image avec NoelShack" title="1547719768-48403619-202547290694692-8334010431567822848-n.jpg"/></a>
+
+</p>
 
 
 
@@ -199,8 +203,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzY2OTg4MywxNjgyNzgzMDI4LDc4Mz
-ExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMTU0Njc1MDEw
-NiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2OTM4NTVdfQ
-==
+eyJoaXN0b3J5IjpbOTAwMjI3MjAyLDE2ODI3ODMwMjgsNzgzMT
+E5NzM4LDc1MTMwMDg2MCwxOTg1MTE0Nzc4LC0xNTQ2NzUwMTA2
+LC0xNTU0NjU1MzA0LDE3MTgxMTEyOSwtMTkzMzY5Mzg1NV19
 -->
