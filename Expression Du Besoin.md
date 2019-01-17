@@ -67,7 +67,7 @@ qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service
 <h3>3.1 - Charte graphique</h3>
 <p>LE LOGO : <br>Pour le site, le client à décidé de choisir ce logo parmi d’autre qui lui ont été
 proposés <img src="https://image.noelshack.com/fichiers/2019/03/4/1547713263-48418119-534039863777521-6212785144168710144-n.png" width=400px height= 200px align='center' margin-bottom="20px">  </p>
-
+	 
 ## Delete a file
 
 You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
@@ -191,6 +191,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTExNDc3OCwtMTU0Njc1MDEwNiwtMT
-U1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2OTM4NTVdfQ==
+eyJoaXN0b3J5IjpbNzUxMzAwODYwLDE5ODUxMTQ3NzgsLTE1ND
+Y3NTAxMDYsLTE1NTQ2NTUzMDQsMTcxODExMTI5LC0xOTMzNjkz
+ODU1XX0=
 -->
