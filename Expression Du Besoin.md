@@ -88,7 +88,7 @@ pouvant être vendeur ou enchérisseur (=acheteur) ,
 
 ><b>Wireframes Administrateur: </b> <br>
 
- <img src="" width="" height="">
+ <img src="https://image.noelshack.com/fichiers/2019/03/4/1547727160-picture1.png" width="" height=""> br>
 
 ><b>Wireframes Visiteur: </b> <br>
 
@@ -224,8 +224,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDUzNjA1MCwtMjY2NTk5MzE4LC0xMj
-I0MjIxNTAyLC0yNzkzNzczNDQsMTY4Mjc4MzAyOCw3ODMxMTk3
-MzgsNzUxMzAwODYwLDE5ODUxMTQ3NzgsLTE1NDY3NTAxMDYsLT
-E1NTQ2NTUzMDQsMTcxODExMTI5LC0xOTMzNjkzODU1XX0=
+eyJoaXN0b3J5IjpbMTIwNzQyNjM5LDE4NzA1MzYwNTAsLTI2Nj
+U5OTMxOCwtMTIyNDIyMTUwMiwtMjc5Mzc3MzQ0LDE2ODI3ODMw
+MjgsNzgzMTE5NzM4LDc1MTMwMDg2MCwxOTg1MTE0Nzc4LC0xNT
+Q2NzUwMTA2LC0xNTU0NjU1MzA0LDE3MTgxMTEyOSwtMTkzMzY5
+Mzg1NV19
 -->
