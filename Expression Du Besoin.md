@@ -134,9 +134,8 @@ disposition sur le site web, ainsi que voir les enchères en temps réel. Il pou
 D’autres potentielles fonctionnalités sont à définir par la suite avec le client.</p> 
 
 <h3>4.4 - Inventaire des données nécessaires</h3>
-
-<h3>4.5 - Autres exigences fonctionnelles</h3>
-
+<p>Authentification, augmenter un prix, baisser un prix, afficher un liste de
+ventes/enchères, donner nouvel article</p>
 
 ## <a id="ext">V - EXIGENCES TECHNIQUES </a>
 
@@ -257,9 +256,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjM3NDA3LDE4NzA1MzYwNTAsLTI2Nj
-U5OTMxOCwtMTIyNDIyMTUwMiwtMjc5Mzc3MzQ0LDE2ODI3ODMw
-MjgsNzgzMTE5NzM4LDc1MTMwMDg2MCwxOTg1MTE0Nzc4LC0xNT
-Q2NzUwMTA2LC0xNTU0NjU1MzA0LDE3MTgxMTEyOSwtMTkzMzY5
-Mzg1NV19
+eyJoaXN0b3J5IjpbLTU5MTI1NDc1MSwxODcwNTM2MDUwLC0yNj
+Y1OTkzMTgsLTEyMjQyMjE1MDIsLTI3OTM3NzM0NCwxNjgyNzgz
+MDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMT
+U0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2
+OTM4NTVdfQ==
 -->
