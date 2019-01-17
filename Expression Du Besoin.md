@@ -37,7 +37,18 @@ Email : julien.Hairapian@univ-evry.fr
 1.1 - Description du document
 Le document a pour but de préciser le besoin vis à vis du projet pour le client. Il spécifie les besoins techniques et fonctionnels de l'application tout en donnant des informations sur le comportement de celle-ci et les possibles implémentation qu'elle peut avoir.
 
-1.2 - 
+1.2 - Présentation du contexte
+Dans le cadre de notre formation Master 1 MIAGE en apprentissage,
+nous avons été chargés de créer une application web basée sur le
+même principe que le site eBay, mais qui sera une application lite,
+c’est-à-dire allégée par rapport l’application originale.
+L’objectif principal de ce cahier de charges est d'exprimer les
+besoins du client, c’est-à-dire définir les objectifs principaux de notre
+application, puis détailler les fonctionnalités que doit fournir notre
+application, lister les utilisateurs concernés, et présenter une
+première version de notre wireframe. Ce document apporte une
+première esquisse de notre projet, ainsi que certains éléments de
+réponse qui seront sujets à amélioration.
 
 ## Switch to another file
 
@@ -170,6 +181,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQ2NTUzMDQsMTcxODExMTI5LC0xOT
-MzNjkzODU1XX0=
+eyJoaXN0b3J5IjpbMTgyMDE0NzMxLC0xNTU0NjU1MzA0LDE3MT
+gxMTEyOSwtMTkzMzY5Mzg1NV19
 -->
