@@ -49,7 +49,7 @@ première version de notre wireframe. Ce document apporte une
 première esquisse de notre projet, ainsi que certains éléments de
 réponse qui seront sujets à amélioration. <br>
 
-## <a href="#obj">II - OBJECTIFS ET ENJEUX </a>
+## <a id "#obj">II - OBJECTIFS ET ENJEUX </a>
 
 2.1 - Objectifs de l'application
 Cette application est une application web de ventes aux enchères, ça sera un
@@ -60,8 +60,8 @@ possibilité d’achat immédiat, quelque soit l’état de l’objet (neuf, d�
 service...). <br>
 
 2.2 - Cibles
-Nous visons toute personne, physique ou morale, professionnel ou particulier,
-qui veut effectuer une vente d’un objet ou d’un service, ou qui veut en acheter.
+Nous visons toute personne physique ou morale, professionnel ou particulier,
+qui voudrait effectuer une vente d’un objet/article/produit ou d’un service, ou qui pourrait vouloir acheter 
 
 ## Rename a file
 
@@ -190,6 +190,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTI0OTkyOSwtMTU1NDY1NTMwNCwxNz
-E4MTExMjksLTE5MzM2OTM4NTVdfQ==
+eyJoaXN0b3J5IjpbLTE3ODA3NzI3MzAsLTE1NTQ2NTUzMDQsMT
+cxODExMTI5LC0xOTMzNjkzODU1XX0=
 -->
