@@ -107,7 +107,9 @@ pouvant être vendeur ou enchérisseur (=acheteur) ,
 <br> <br>
 
 
-## <a href="#"> EXIGENCES FONCTIONNELLES </a>  
+## <a id="#exf">IV - EXIGENCES FONCTIONNELLES </a>
+
+<h3>2.1 - Présentation générale</h3>
 
 You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
@@ -230,7 +232,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0ODIzMTYzLDE4NzA1MzYwNTAsLTI2Nj
+eyJoaXN0b3J5IjpbOTc5OTg3MDcyLDE4NzA1MzYwNTAsLTI2Nj
 U5OTMxOCwtMTIyNDIyMTUwMiwtMjc5Mzc3MzQ0LDE2ODI3ODMw
 MjgsNzgzMTE5NzM4LDc1MTMwMDg2MCwxOTg1MTE0Nzc4LC0xNT
 Q2NzUwMTA2LC0xNTU0NjU1MzA0LDE3MTgxMTEyOSwtMTkzMzY5
