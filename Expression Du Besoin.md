@@ -88,7 +88,7 @@ pouvant être vendeur ou enchérisseur (=acheteur) ,
 
 ><b>Maquettes & Wireframes Administrateur </b>:
 
-
+	
 
 	 
 ## Delete a file
@@ -214,8 +214,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQyMjE1MDIsLTI3OTM3NzM0NCwxNj
-gyNzgzMDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3
-OCwtMTU0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLT
-E5MzM2OTM4NTVdfQ==
+eyJoaXN0b3J5IjpbLTI2NjU5OTMxOCwtMTIyNDIyMTUwMiwtMj
+c5Mzc3MzQ0LDE2ODI3ODMwMjgsNzgzMTE5NzM4LDc1MTMwMDg2
+MCwxOTg1MTE0Nzc4LC0xNTQ2NzUwMTA2LC0xNTU0NjU1MzA0LD
+E3MTgxMTEyOSwtMTkzMzY5Mzg1NV19
 -->
