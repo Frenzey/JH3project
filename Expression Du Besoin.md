@@ -69,7 +69,8 @@ qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service
 proposés <img src="https://image.noelshack.com/fichiers/2019/03/4/1547713263-48418119-534039863777521-6212785144168710144-n.png" width=400px height= 200px align='center' margin-bottom="20px">  </p> <br>
 
 <p>LES MAQUETTES ET LES COULEURS : <br>
-Pour l’interface d’accueil : </p>
+Pour l’interface d’accueil : 
+<a href="https://www.noelshack.com/2019-03-4-1547719749-48406033-318267672121128-5898184867115433984-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719749-48406033-318267672121128-5898184867115433984-n.png" border="0" alt="1547719749-48406033-318267672121128-5898184867115433984-n.jpg - envoi d'image avec NoelShack" title="1547719749-48406033-318267672121128-5898184867115433984-n.jpg"/></a></p>
 
 
 
@@ -198,7 +199,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMTE5NzM4LDc1MTMwMDg2MCwxOTg1MT
-E0Nzc4LC0xNTQ2NzUwMTA2LC0xNTU0NjU1MzA0LDE3MTgxMTEy
-OSwtMTkzMzY5Mzg1NV19
+eyJoaXN0b3J5IjpbMTY4Mjc4MzAyOCw3ODMxMTk3MzgsNzUxMz
+AwODYwLDE5ODUxMTQ3NzgsLTE1NDY3NTAxMDYsLTE1NTQ2NTUz
+MDQsMTcxODExMTI5LC0xOTMzNjkzODU1XX0=
 -->
