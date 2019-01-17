@@ -73,7 +73,6 @@ Pour l’interface d’accueil : <br> <br>
 <a href="https://www.noelshack.com/2019-03-4-1547719749-48406033-318267672121128-5898184867115433984-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719749-48406033-318267672121128-5898184867115433984-n.png" width=150px height= 100px align='top'/></a>
 <a href="https://www.noelshack.com/2019-03-4-1547719763-48398420-784516268555816-9129848750322221056-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719763-48398420-784516268555816-9129848750322221056-n.png" border="0" alt="1547719763-48398420-784516268555816-9129848750322221056-n.jpg - envoi d'image avec NoelShack" title="1547719763-48398420-784516268555816-9129848750322221056-n.jpg" width=150px height= 100px align='top'/></a>
 <a href="https://www.noelshack.com/2019-03-4-1547719768-48403619-202547290694692-8334010431567822848-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719768-48403619-202547290694692-8334010431567822848-n.png" border="0" alt="1547719768-48403619-202547290694692-8334010431567822848-n.jpg - envoi d'image avec NoelShack" title="1547719768-48403619-202547290694692-8334010431567822848-n.jpg" width=150px height= 100px align='top'/></a>
-
 </p>
 
 
@@ -204,7 +203,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc4NTYxMjcsMTY4Mjc4MzAyOCw3OD
+eyJoaXN0b3J5IjpbLTE2MTExODQ5NzcsMTY4Mjc4MzAyOCw3OD
 MxMTk3MzgsNzUxMzAwODYwLDE5ODUxMTQ3NzgsLTE1NDY3NTAx
 MDYsLTE1NTQ2NTUzMDQsMTcxODExMTI5LC0xOTMzNjkzODU1XX
 0=
