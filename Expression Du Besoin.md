@@ -144,6 +144,7 @@ ventes/enchères, donner nouvel article</p>
  - Performance: Nous attacherons une attention particulière à ce que le temps de réponse soit raisonnable. <br><br>
  - Possibilité d'effectuer des mises à jour, ainsi que des ajouts de fonctionnalités au fur et à mesure de l'avancement du projet</p>
 
+<img src="">
 
 # Synchronization
 
@@ -259,9 +260,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTYxNTQwLC0xMDAzNzUyMDAwLDE4Nz
-A1MzYwNTAsLTI2NjU5OTMxOCwtMTIyNDIyMTUwMiwtMjc5Mzc3
-MzQ0LDE2ODI3ODMwMjgsNzgzMTE5NzM4LDc1MTMwMDg2MCwxOT
-g1MTE0Nzc4LC0xNTQ2NzUwMTA2LC0xNTU0NjU1MzA0LDE3MTgx
-MTEyOSwtMTkzMzY5Mzg1NV19
+eyJoaXN0b3J5IjpbLTE2NzA3ODUxMzQsMTk2OTYxNTQwLC0xMD
+AzNzUyMDAwLDE4NzA1MzYwNTAsLTI2NjU5OTMxOCwtMTIyNDIy
+MTUwMiwtMjc5Mzc3MzQ0LDE2ODI3ODMwMjgsNzgzMTE5NzM4LD
+c1MTMwMDg2MCwxOTg1MTE0Nzc4LC0xNTQ2NzUwMTA2LC0xNTU0
+NjU1MzA0LDE3MTgxMTEyOSwtMTkzMzY5Mzg1NV19
 -->
