@@ -139,10 +139,9 @@ ventes/enchères, donner nouvel article</p>
 ## <a id="ext">V - EXIGENCES TECHNIQUES </a>
 <p>Afin de mener à bien notre projet, nous avons identifié certaines exigences qui pourraient nous permettre de répondre aux besoins client, pour obtenir le résultat le plus satisfaisant:<br>
 
- - `List item`
- - L'interface de notre application doit être conviviale et simple d’utilisation, l'objectif étant de la rendre la plus intuitive possible. <br>
- - Sécurité: Les données de nos utilisateurs doivent être scrupuleusement protégées afin d'offrir un certain confort et établir une relation de confiance avec les clients. <br>
- - Performance: Nous attacherons une attention particulière à ce que le temps de réponse soit raisonnable. <br>
+ - L'interface de notre application doit être conviviale et simple d’utilisation, l'objectif étant de la rendre la plus intuitive possible. <br><br>
+ - Sécurité: Les données de nos utilisateurs doivent être scrupuleusement protégées afin d'offrir un certain confort et établir une relation de confiance avec les clients. <br><br>
+ - Performance: Nous attacherons une attention particulière à ce que le temps de réponse soit raisonnable. <br><br>
  - Possibilité d'effectuer des mises à jour, ainsi que des ajouts de fonctionnalités au fur et à mesure de l'avancement du projet</p>
 
 
@@ -260,9 +259,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY3ODM3OTYsLTEwMDM3NTIwMDAsMT
-g3MDUzNjA1MCwtMjY2NTk5MzE4LC0xMjI0MjIxNTAyLC0yNzkz
-NzczNDQsMTY4Mjc4MzAyOCw3ODMxMTk3MzgsNzUxMzAwODYwLD
-E5ODUxMTQ3NzgsLTE1NDY3NTAxMDYsLTE1NTQ2NTUzMDQsMTcx
-ODExMTI5LC0xOTMzNjkzODU1XX0=
+eyJoaXN0b3J5IjpbMTk2OTYxNTQwLC0xMDAzNzUyMDAwLDE4Nz
+A1MzYwNTAsLTI2NjU5OTMxOCwtMTIyNDIyMTUwMiwtMjc5Mzc3
+MzQ0LDE2ODI3ODMwMjgsNzgzMTE5NzM4LDc1MTMwMDg2MCwxOT
+g1MTE0Nzc4LC0xNTQ2NzUwMTA2LC0xNTU0NjU1MzA0LDE3MTgx
+MTEyOSwtMTkzMzY5Mzg1NV19
 -->
