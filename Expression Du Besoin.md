@@ -114,7 +114,7 @@ pouvant être vendeur ou enchérisseur (=acheteur) ,
 dans cet optique que nous ciblons des fonctionnalités que nous estimons
 primordiales dans un site “Ebay like”. La cible: Etant donné que cette application se
 base sur le modèle E-bay, il parait évident qu'elle s'adresse à tout usager d'internet
-quel que soit son âge ou ses préférences personnelles.</p>
+quel que soit son âge ou ses préférences personnelles.</p> 
 
 <h3>4.2 - Utilisateurs</h3>
 <p>Dans un premier temps nous avons ciblé les types d'utilisateurs suivants:
@@ -123,7 +123,7 @@ quel que soit son âge ou ses préférences personnelles.</p>
 disposition sur le site web, ainsi que voir les enchères en temps réel. Il pourra
 éventuellement choisir de se créer un compte, pour devenir un utilisateur connecté, ou bien se restreindre au statut d'observateur des produits du site web sans la possibilité d’interagir (exemple: il pourra enchérir mais pas valider ) <br> <br>
 - Client: Il possède déjà un compte sur E-bay light et pourra ainsi profiter de toutes les fonctionnalités du site web, <br> <br>
-- Administrateur: Utilisateur qui pourra naviguer sur le site comme un utilisateur connecté, mais qui aura également la capacité de gérer les comptes utilisateurs de la plateforme ( ajouter,gérer,supprimer compte...).</p> <br> <br>
+- Administrateur: Utilisateur qui pourra naviguer sur le site comme un utilisateur connecté, mais qui aura également la capacité de gérer les comptes utilisateurs de la plateforme ( ajouter,gérer,supprimer compte...).</p> <br>
 
 <h3>4.3 - Fonctionnalités</h3>
 <p>L’application eBayLite proposera l’implémentation de plusieurs services métiers, ceux-ci étant définis pour un type d’utilisateur précis <br>
@@ -131,9 +131,10 @@ disposition sur le site web, ainsi que voir les enchères en temps réel. Il pou
  - Admin: Se connecter, gérer les clients (ajouter/modifier/supprimer un client), attribuer des droits à un client, gérer les catégories (ajouter/modifier/supprimer une catégorie), gérer les articles mis en ligne sur les site (ajouter/modifier/supprimer des articles). <br> <br>
 - Visiteur: Rechercher un article, afficher son panier, enchérir, afficher un article, ajouter un article à son panier, se connecter/s’inscrire, accéder à une catégorie. <br><br>
 - Client: Se connecter/s’inscrire, rechercher un article, accéder à une catégorie, afficher son panier, enchérir, afficher un article, ajouter un article à son panier, passer commande, gérer ses enchères, gérer ses ventes, ajouter un article à vendre, modifier ses informations personnelles.
-D’autres potentielles fonctionnalités sont à définir par la suite avec le client.</p>
+D’autres potentielles fonctionnalités sont à définir par la suite avec le client.</p> 
 
 <h3>4.4 - Inventaire des données nécessaires</h3>
+
 <h3>4.5 - Autres exigences fonctionnelles</h3>
 
 
@@ -256,9 +257,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjIwNzExNywxODcwNTM2MDUwLC0yNj
-Y1OTkzMTgsLTEyMjQyMjE1MDIsLTI3OTM3NzM0NCwxNjgyNzgz
-MDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMT
-U0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2
-OTM4NTVdfQ==
+eyJoaXN0b3J5IjpbMTM1MjM3NDA3LDE4NzA1MzYwNTAsLTI2Nj
+U5OTMxOCwtMTIyNDIyMTUwMiwtMjc5Mzc3MzQ0LDE2ODI3ODMw
+MjgsNzgzMTE5NzM4LDc1MTMwMDg2MCwxOTg1MTE0Nzc4LC0xNT
+Q2NzUwMTA2LC0xNTU0NjU1MzA0LDE3MTgxMTEyOSwtMTkzMzY5
+Mzg1NV19
 -->
