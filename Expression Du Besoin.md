@@ -102,7 +102,7 @@ pouvant être vendeur ou enchérisseur (=acheteur) ,
  <img src="https://image.noelshack.com/fichiers/2019/03/4/1547727655-picture5.png" width="" height=""> <br>
  <img src="https://image.noelshack.com/fichiers/2019/03/4/1547727655-picture6.png" width="" height=""> <br>
  <img src="https://image.noelshack.com/fichiers/2019/03/4/1547727655-picture7.png" width="" height=""> <br>
- <img src="" width="" height=""> <br> 
+ <img src="https://image.noelshack.com/fichiers/2019/03/4/1547727655-picture8.png" width="300"> <br> 
 
 <br> <br>
 
@@ -232,7 +232,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDQ3NzM2OSwxODcwNTM2MDUwLC0yNj
+eyJoaXN0b3J5IjpbMjEwMzE2OTYyNSwxODcwNTM2MDUwLC0yNj
 Y1OTkzMTgsLTEyMjQyMjE1MDIsLTI3OTM3NzM0NCwxNjgyNzgz
 MDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMT
 U0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2
