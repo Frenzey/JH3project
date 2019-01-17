@@ -34,7 +34,7 @@ Email : julien.Hairapian@univ-evry.fr
 
 ## <a id="int">I - INTRODUCTION </a>
 
-<p > 1.1 - Description du document </p>
+1.1 - Description du document </p>
 
 ## Switch to another file
 
@@ -167,5 +167,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3ODAwMjM4LC0xOTMzNjkzODU1XX0=
+eyJoaXN0b3J5IjpbMTI1MzQ0MzIyNiwtMTkzMzY5Mzg1NV19
 -->
