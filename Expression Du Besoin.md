@@ -136,6 +136,7 @@ disposition sur le site web, ainsi que voir les enchères en temps réel. Il pou
 - Client: Se connecter/s’inscrire, rechercher un article, accéder à une catégorie, afficher son panier, enchérir, afficher un article, ajouter un article à son panier, passer commande, gérer ses enchères, gérer ses ventes, ajouter un article à vendre, modifier ses informations personnelles.
 <img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Acheteur.PNG"> <br>
 <img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Vendeur.PNG"> <br>
+<img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Ench%C3%A8reur.PNG"> <br>
 <img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Identification.PNG"> <br>
 D’autres potentielles fonctionnalités sont à définir par la suite avec le client.</p> 
 
@@ -267,7 +268,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQxOTM4MzksLTU2NzU2NzI1NCwtMT
+eyJoaXN0b3J5IjpbLTE3MTEyMTk0OTEsLTU2NzU2NzI1NCwtMT
 kxNTk3MDkzOCwxOTY5NjE1NDAsLTEwMDM3NTIwMDAsMTg3MDUz
 NjA1MCwtMjY2NTk5MzE4LC0xMjI0MjIxNTAyLC0yNzkzNzczND
 QsMTY4Mjc4MzAyOCw3ODMxMTk3MzgsNzUxMzAwODYwLDE5ODUx
