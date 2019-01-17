@@ -125,9 +125,9 @@ disposition sur le site web, ainsi que voir les enchères en temps réel. Il pou
 - Client: Il possède déjà un compte sur E-bay light et pourra ainsi profiter de toutes les fonctionnalités du site web, <br> <br>
 - Administrateur: Utilisateur qui pourra naviguer sur le site comme un utilisateur connecté, mais qui aura également la capacité de gérer les comptes utilisateurs de la plateforme ( ajouter,gérer,supprimer compte...).</p> <br> <br>
 
-<h3>4.3 - Fonctionnalités
-4.4 - Inventaire des données nécessaires
-4.5 - Autres exigences fonctionnelles
+<h3>4.3 - Fonctionnalités</h3>
+<h3>4.4 - Inventaire des données nécessaires</h3>
+<h3>4.5 - Autres exigences fonctionnelles</h3>
 
 You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
@@ -250,7 +250,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTc2NDgzMCwxODcwNTM2MDUwLC0yNj
+eyJoaXN0b3J5IjpbMTczNzAyNzMyMiwxODcwNTM2MDUwLC0yNj
 Y1OTkzMTgsLTEyMjQyMjE1MDIsLTI3OTM3NzM0NCwxNjgyNzgz
 MDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMT
 U0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2
