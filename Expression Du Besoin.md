@@ -135,6 +135,8 @@ disposition sur le site web, ainsi que voir les enchères en temps réel. Il pou
 <br>
 - Client: Se connecter/s’inscrire, rechercher un article, accéder à une catégorie, afficher son panier, enchérir, afficher un article, ajouter un article à son panier, passer commande, gérer ses enchères, gérer ses ventes, ajouter un article à vendre, modifier ses informations personnelles.
 <img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Identification.PNG"> <br>
+<img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Identification.PNG"> <br>
+<img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Identification.PNG"> <br>
 D’autres potentielles fonctionnalités sont à définir par la suite avec le client.</p> 
 
 <h3>4.4 - Inventaire des données nécessaires</h3>
@@ -265,10 +267,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1Mzk0NDA3LC01Njc1NjcyNTQsLTE5MT
-U5NzA5MzgsMTk2OTYxNTQwLC0xMDAzNzUyMDAwLDE4NzA1MzYw
-NTAsLTI2NjU5OTMxOCwtMTIyNDIyMTUwMiwtMjc5Mzc3MzQ0LD
-E2ODI3ODMwMjgsNzgzMTE5NzM4LDc1MTMwMDg2MCwxOTg1MTE0
-Nzc4LC0xNTQ2NzUwMTA2LC0xNTU0NjU1MzA0LDE3MTgxMTEyOS
-wtMTkzMzY5Mzg1NV19
+eyJoaXN0b3J5IjpbMTMxMTM3MDI0NywtNTY3NTY3MjU0LC0xOT
+E1OTcwOTM4LDE5Njk2MTU0MCwtMTAwMzc1MjAwMCwxODcwNTM2
+MDUwLC0yNjY1OTkzMTgsLTEyMjQyMjE1MDIsLTI3OTM3NzM0NC
+wxNjgyNzgzMDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTEx
+NDc3OCwtMTU0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMj
+ksLTE5MzM2OTM4NTVdfQ==
 -->
