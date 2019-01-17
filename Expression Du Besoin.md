@@ -65,7 +65,7 @@ qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service
 ## <a id="graph">III - GRAPHISME ET ERGONOMIE</a>
 
 <h3>3.1 - Charte graphique</h3>
-<p>LE LOGO : <br>Pour le site, le client à décidé de choisir ce logo parmi d’autre qui lui ont été
+<h4>LE LOGO :</h4><p>Pour le site, le client à décidé de choisir ce logo parmi d’autre qui lui ont été
 proposés <img src="https://image.noelshack.com/minis/2019/03/4/1547719801-48418119-534039863777521-6212785144168710144-n.png" border="0" alt="1547719801-48418119-534039863777521-6212785144168710144-n.png - envoi d'image avec NoelShack" title="1547719801-48418119-534039863777521-6212785144168710144-n.png" width=250px height= 200px align='center'/>  </p> <br>
 
 <h4><p>LES MAQUETTES ET LES COULEURS :</h4>
@@ -75,10 +75,10 @@ Pour l’interface d’accueil : <br> <br>
 <a href="https://www.noelshack.com/2019-03-4-1547719768-48403619-202547290694692-8334010431567822848-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719768-48403619-202547290694692-8334010431567822848-n.png" border="0" alt="1547719768-48403619-202547290694692-8334010431567822848-n.jpg - envoi d'image avec NoelShack" title="1547719768-48403619-202547290694692-8334010431567822848-n.jpg" width=150px height= 100px align='top'/></a>
 </p>
 
-
-
 > les maquettes ne sont pas définitives, elles peuvent être soumises à des modifications par la suite.
 > Veillez cliquer sur celles-ci pour visualiser les images.
+
+<h4>WIREFRAME</h4>
 	 
 ## Delete a file
 
@@ -203,7 +203,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjYyMzczOCwxNjgyNzgzMDI4LDc4Mz
+eyJoaXN0b3J5IjpbLTI3OTM3NzM0NCwxNjgyNzgzMDI4LDc4Mz
 ExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMTU0Njc1MDEw
 NiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2OTM4NTVdfQ
 ==
