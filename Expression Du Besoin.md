@@ -69,7 +69,8 @@ qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service
 proposés: <br/> <img src="https://image.noelshack.com/minis/2019/03/4/1547719801-48418119-534039863777521-6212785144168710144-n.png" border="0" alt="1547719801-48418119-534039863777521-6212785144168710144-n.png - envoi d'image avec NoelShack" title="1547719801-48418119-534039863777521-6212785144168710144-n.png" width=250px height= 200px align='center'/>  </p> <br>
 
 <h4><p>LES MAQUETTES ET LES COULEURS :</h4>
-<img src="https://image.noelshack.com/minis/2019/03/4/1547719749-48406033-318267672121128-5898184867115433984-n.png" width=150px height= 100px align='top'/>
+Pour l’interface d’accueil : <br> <br>
+<a href="https://www.noelshack.com/2019-03-4-1547719749-48406033-318267672121128-5898184867115433984-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719749-48406033-318267672121128-5898184867115433984-n.png" width=150px height= 100px align='top'/></a>
 <a href="https://www.noelshack.com/2019-03-4-1547719763-48398420-784516268555816-9129848750322221056-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719763-48398420-784516268555816-9129848750322221056-n.png" border="0" alt="1547719763-48398420-784516268555816-9129848750322221056-n.jpg - envoi d'image avec NoelShack" title="1547719763-48398420-784516268555816-9129848750322221056-n.jpg" width=150px height= 100px align='top'/></a>
 <a href="https://www.noelshack.com/2019-03-4-1547719768-48403619-202547290694692-8334010431567822848-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719768-48403619-202547290694692-8334010431567822848-n.png" border="0" alt="1547719768-48403619-202547290694692-8334010431567822848-n.jpg - envoi d'image avec NoelShack" title="1547719768-48403619-202547290694692-8334010431567822848-n.jpg" width=150px height= 100px align='top'/></a>
 </p>
@@ -98,7 +99,10 @@ pouvant être vendeur ou enchérisseur (=acheteur) ,
 
 ><b>Wireframes Client Vendeur/Enchérisseur: </b> <br>
 
- <img src="" width="" height=""> <br> <br>
+ <img src="" width="" height=""> <br>
+ <img src="" width="" height=""> <br> 
+
+<br> <br>
 
 	
 
@@ -226,9 +230,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDM4Njc0NywxODcwNTM2MDUwLC0yNj
-Y1OTkzMTgsLTEyMjQyMjE1MDIsLTI3OTM3NzM0NCwxNjgyNzgz
-MDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMT
-U0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2
-OTM4NTVdfQ==
+eyJoaXN0b3J5IjpbLTEyOTE2OTU1NTAsMTg3MDUzNjA1MCwtMj
+Y2NTk5MzE4LC0xMjI0MjIxNTAyLC0yNzkzNzczNDQsMTY4Mjc4
+MzAyOCw3ODMxMTk3MzgsNzUxMzAwODYwLDE5ODUxMTQ3NzgsLT
+E1NDY3NTAxMDYsLTE1NTQ2NTUzMDQsMTcxODExMTI5LC0xOTMz
+NjkzODU1XX0=
 -->
