@@ -15,27 +15,27 @@ Email : julien.Hairapian@univ-evry.fr
 
 1.  <a href="#int"> INTRODUCTION </a>
 1.1 - Description du document
-1.2 - Présentation du contexte <br>
+1.2 - Présentation du contexte <br/>
 
 2. <a href="#obj"> OBJECTIFS ET ENJEUX </a>
 2.1 - Objectifs de l'application
 2.2 - Cibles
-2.3 - Objectifs quantitatifs  <br>
+2.3 - Objectifs quantitatifs  <br/>
 3. <a href="#graph"> GRAPHISME ET ERGONOMIE </a>
 3.1 - Charte graphique
-3.2 - Wireframe et maquettage <br>
+3.2 - Wireframe et maquettage <br/>
 4. <a href="#exf"> EXIGENCES FONCTIONNELLES </a>
 4.1 - Présentation générale
 4.2 - Utilisateurs
 4.3 - Fonctionnalités
 4.4 - Inventaire des données nécessaires
-4.5 - Autres exigences fonctionnelles <br>
+4.5 - Autres exigences fonctionnelles <br/>
 5. <a href="#ext"> EXIGENCES TECHNIQUES </a> 
 
 ## <a id="int">I - INTRODUCTION </a>
 
->1.1 - Description du document
-Le document a pour but de préciser le besoin vis à vis du projet pour le client. Il spécifie les besoins techniques et fonctionnels de l'application tout en donnant des informations sur le comportement de celle-ci et les possibles implémentation qu'elle peut avoir.
+= 1.1 - Description du document
+Le document a pour but de préciser le besoin vis à vis du projet pour le client. Il spécifie les besoins techniques et fonctionnels de l'application tout en donnant des informations sur le comportement de celle-ci et les possibles implémentation qu'elle peut avoir. 
 
 1.2 - Présentation du contexte
 Dans le cadre de notre formation Master 1 MIAGE en apprentissage,
@@ -181,6 +181,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTAwMjcxMjcsLTE1NTQ2NTUzMDQsMT
-cxODExMTI5LC0xOTMzNjkzODU1XX0=
+eyJoaXN0b3J5IjpbMjA4MDEwMTkyOCwtMTU1NDY1NTMwNCwxNz
+E4MTExMjksLTE5MzM2OTM4NTVdfQ==
 -->
