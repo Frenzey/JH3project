@@ -66,11 +66,11 @@ qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service
 
 <h3>3.1 - Charte graphique</h3>
 <p>LE LOGO : <br>Pour le site, le client à décidé de choisir ce logo parmi d’autre qui lui ont été
-proposés <img src="https://image.noelshack.com/minis/2019/03/4/1547719801-48418119-534039863777521-6212785144168710144-n.png" border="0" alt="1547719801-48418119-534039863777521-6212785144168710144-n.png - envoi d'image avec NoelShack" title="1547719801-48418119-534039863777521-6212785144168710144-n.png" width=200px height= 100px align='center'/>  </p> <br>
+proposés <img src="https://image.noelshack.com/minis/2019/03/4/1547719801-48418119-534039863777521-6212785144168710144-n.png" border="0" alt="1547719801-48418119-534039863777521-6212785144168710144-n.png - envoi d'image avec NoelShack" title="1547719801-48418119-534039863777521-6212785144168710144-n.png" width=250px height= 200px align='center'/>  </p> <br>
 
 <p>LES MAQUETTES ET LES COULEURS : <br>
-Pour l’interface d’accueil : 
-<a href="https://www.noelshack.com/2019-03-4-1547719749-48406033-318267672121128-5898184867115433984-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719749-48406033-318267672121128-5898184867115433984-n.png"/></a>
+Pour l’interface d’accueil : <br> <br>
+<a href="https://www.noelshack.com/2019-03-4-1547719749-48406033-318267672121128-5898184867115433984-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719749-48406033-318267672121128-5898184867115433984-n.png" width=250px height= 200px align='center'/></a>
 <a href="https://www.noelshack.com/2019-03-4-1547719763-48398420-784516268555816-9129848750322221056-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719763-48398420-784516268555816-9129848750322221056-n.png" border="0" alt="1547719763-48398420-784516268555816-9129848750322221056-n.jpg - envoi d'image avec NoelShack" title="1547719763-48398420-784516268555816-9129848750322221056-n.jpg"/></a>
 <a href="https://www.noelshack.com/2019-03-4-1547719768-48403619-202547290694692-8334010431567822848-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719768-48403619-202547290694692-8334010431567822848-n.png" border="0" alt="1547719768-48403619-202547290694692-8334010431567822848-n.jpg - envoi d'image avec NoelShack" title="1547719768-48403619-202547290694692-8334010431567822848-n.jpg"/></a>
 
@@ -203,8 +203,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTM2MzU5MiwxNjgyNzgzMDI4LDc4Mz
-ExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMTU0Njc1MDEw
-NiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2OTM4NTVdfQ
-==
+eyJoaXN0b3J5IjpbLTExMjQ0MDkyNzksMTY4Mjc4MzAyOCw3OD
+MxMTk3MzgsNzUxMzAwODYwLDE5ODUxMTQ3NzgsLTE1NDY3NTAx
+MDYsLTE1NTQ2NTUzMDQsMTcxODExMTI5LC0xOTMzNjkzODU1XX
+0=
 -->
