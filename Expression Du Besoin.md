@@ -51,23 +51,22 @@ réponse qui seront sujets à amélioration. <br>
 ## <a id="obj">II - OBJECTIFS ET ENJEUX </a>
 
 <h3>2.1 - Objectifs de l'application</h3>
-Cette application est une application web de ventes aux enchères, ça sera un
+<p>Cette application est une application web de ventes aux enchères, ça sera un
 moyen de courtage et ça consiste à servir d’intermédiaire entre un acheteur et un
 vendeur, et ces services sont à disposition de toute personne inscrite sur le site.
 En plus des ventes aux enchères, l’application a pour objectif d’offrir la
 possibilité d’achat immédiat, quelque soit l’état de l’objet (neuf, d’occasion, hors
-service...). <br>
+service...).< <br>
 
 <h3>2.2 - Cibles </h3>
-Nous visons toute personne physique ou morale, professionnel ou particulier,
-qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service) ou qui pourrait vouloir acheter un des articles disponibles.  <br>
+<p>Nous visons toute personne physique ou morale, professionnel ou particulier,
+qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service) ou qui pourrait vouloir acheter un des articles disponibles.  </p><br>
 
 ## <a id="graph">III - GRAPHISME ET ERGONOMIE</a>
 
 <h3>3.1 - Charte graphique</h3>
-LE LOGO :
-Pour le site, le client à décidé de choisir ce logo parmi d’autre qui lui ont été
-proposés
+<p>LE LOGO : <br>Pour le site, le client à décidé de choisir ce logo parmi d’autre qui lui ont été
+proposés </p>
 
 ## Delete a file
 
@@ -192,6 +191,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDY3NTAxMDYsLTE1NTQ2NTUzMDQsMT
-cxODExMTI5LC0xOTMzNjkzODU1XX0=
+eyJoaXN0b3J5IjpbLTU0Nzk4NTI1NCwtMTU0Njc1MDEwNiwtMT
+U1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2OTM4NTVdfQ==
 -->
