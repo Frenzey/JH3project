@@ -17,20 +17,20 @@ Email : julien.Hairapian@univ-evry.fr
 1.1 - Description du document
 1.2 - Présentation du contexte <br>
 
-2. <a href="#"> OBJECTIFS ET ENJEUX </a>
+2. <a href="#obj"> OBJECTIFS ET ENJEUX </a>
 2.1 - Objectifs de l'application
 2.2 - Cibles
 2.3 - Objectifs quantitatifs  <br>
-3. <a href="#"> GRAPHISME ET ERGONOMIE </a>
+3. <a href="#graph"> GRAPHISME ET ERGONOMIE </a>
 3.1 - Charte graphique
 3.2 - Wireframe et maquettage <br>
-4. <a href="#"> EXIGENCES FONCTIONNELLES </a>
+4. <a href="#exf"> EXIGENCES FONCTIONNELLES </a>
 4.1 - Présentation générale
 4.2 - Utilisateurs
 4.3 - Fonctionnalités
 4.4 - Inventaire des données nécessaires
 4.5 - Autres exigences fonctionnelles <br>
-5. <a href="#"> EXIGENCES TECHNIQUES </a> 
+5. <a href="#ext"> EXIGENCES TECHNIQUES </a> 
 
 ## <a id="int">I - INTRODUCTION </a>
 
@@ -168,5 +168,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODExMTI5LC0xOTMzNjkzODU1XX0=
+eyJoaXN0b3J5IjpbLTE1NDg1NDAyNCwxNzE4MTExMjksLTE5Mz
+M2OTM4NTVdfQ==
 -->
