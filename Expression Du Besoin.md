@@ -19,8 +19,7 @@ Email : julien.Hairapian@univ-evry.fr
 
 2. <a href="#obj"> OBJECTIFS ET ENJEUX </a>
 2.1 - Objectifs de l'application
-2.2 - Cibles
-2.3 - Objectifs quantitatifs  <br/>
+2.2 - Cibles <br/>
 3. <a href="#graph"> GRAPHISME ET ERGONOMIE </a>
 3.1 - Charte graphique
 3.2 - Wireframe et maquettage <br/>
@@ -190,6 +189,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDk2ODYwNywtMTU1NDY1NTMwNCwxNz
+eyJoaXN0b3J5IjpbLTEwMTAwOTQzMSwtMTU1NDY1NTMwNCwxNz
 E4MTExMjksLTE5MzM2OTM4NTVdfQ==
 -->
