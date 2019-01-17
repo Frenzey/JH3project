@@ -35,7 +35,7 @@ Email : julien.Hairapian@univ-evry.fr
 
  <h3>1.1 - Description du document </h3>
 Le document a pour but de préciser le besoin vis à vis du projet pour le client. Il spécifie les besoins techniques et fonctionnels de l'application tout en donnant des informations sur le comportement de celle-ci et les possibles implémentation qu'elle peut avoir.  <br>
-1.2 - Présentation du contexte
+<h3>1.2 - Présentation du contexte </h3>
 Dans le cadre de notre formation Master 1 MIAGE en apprentissage,
 nous avons été chargés de créer une application web basée sur le
 même principe que le site eBay, mais qui sera une application lite,
@@ -192,6 +192,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQ1NDI2NzMsLTE1NTQ2NTUzMDQsMT
+eyJoaXN0b3J5IjpbLTE1NDY3NTAxMDYsLTE1NTQ2NTUzMDQsMT
 cxODExMTI5LC0xOTMzNjkzODU1XX0=
 -->
