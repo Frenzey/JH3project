@@ -122,10 +122,12 @@ quel que soit son âge ou ses préférences personnelles.</p>
  - Visiteur: Utilisateur qui pourra uniquement consulter les produits mis à
 disposition sur le site web, ainsi que voir les enchères en temps réel. Il pourra
 éventuellement choisir de se créer un compte, pour devenir un utilisateur connecté, ou bien se restreindre au statut d'observateur des produits du site web sans la possibilité d’interagir (exemple: il pourra enchérir mais pas valider ) <br> <br>
-- Client: Il possède déjà un compte sur E-bay light et pourra ainsi profiter de toutes les fonctionnalités du site web,
-- Administrateur: Utilisateur qui pourra naviguer sur le site comme un
-utilisateur connecté, mais qui aura également la capacité de gérer les comptes
-utilisateurs de la plateforme ( ajouter,gérer,supprimer compte...)</p>
+- Client: Il possède déjà un compte sur E-bay light et pourra ainsi profiter de toutes les fonctionnalités du site web, <br> <br>
+- Administrateur: Utilisateur qui pourra naviguer sur le site comme un utilisateur connecté, mais qui aura également la capacité de gérer les comptes utilisateurs de la plateforme ( ajouter,gérer,supprimer compte...).</p> <br> <br>
+
+<h3>4.3 - Fonctionnalités
+4.4 - Inventaire des données nécessaires
+4.5 - Autres exigences fonctionnelles
 
 You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
@@ -248,7 +250,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTU2NDY5MCwxODcwNTM2MDUwLC0yNj
+eyJoaXN0b3J5IjpbMjEzNTc2NDgzMCwxODcwNTM2MDUwLC0yNj
 Y1OTkzMTgsLTEyMjQyMjE1MDIsLTI3OTM3NzM0NCwxNjgyNzgz
 MDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMT
 U0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2
