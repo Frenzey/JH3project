@@ -70,15 +70,16 @@ proposés <img src="https://image.noelshack.com/minis/2019/03/4/1547719801-48418
 
 <p>LES MAQUETTES ET LES COULEURS : <br>
 Pour l’interface d’accueil : <br> <br>
-<a href="https://www.noelshack.com/2019-03-4-1547719749-48406033-318267672121128-5898184867115433984-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719749-48406033-318267672121128-5898184867115433984-n.png" width=250px height= 200px align='center'/></a>
-<a href="https://www.noelshack.com/2019-03-4-1547719763-48398420-784516268555816-9129848750322221056-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719763-48398420-784516268555816-9129848750322221056-n.png" border="0" alt="1547719763-48398420-784516268555816-9129848750322221056-n.jpg - envoi d'image avec NoelShack" title="1547719763-48398420-784516268555816-9129848750322221056-n.jpg"/></a>
-<a href="https://www.noelshack.com/2019-03-4-1547719768-48403619-202547290694692-8334010431567822848-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719768-48403619-202547290694692-8334010431567822848-n.png" border="0" alt="1547719768-48403619-202547290694692-8334010431567822848-n.jpg - envoi d'image avec NoelShack" title="1547719768-48403619-202547290694692-8334010431567822848-n.jpg"/></a>
+<a href="https://www.noelshack.com/2019-03-4-1547719749-48406033-318267672121128-5898184867115433984-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719749-48406033-318267672121128-5898184867115433984-n.png" width=150px height= 100px align='top'/></a>
+<a href="https://www.noelshack.com/2019-03-4-1547719763-48398420-784516268555816-9129848750322221056-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719763-48398420-784516268555816-9129848750322221056-n.png" border="0" alt="1547719763-48398420-784516268555816-9129848750322221056-n.jpg - envoi d'image avec NoelShack" title="1547719763-48398420-784516268555816-9129848750322221056-n.jpg" width=150px height= 100px align='top'/></a>
+<a href="https://www.noelshack.com/2019-03-4-1547719768-48403619-202547290694692-8334010431567822848-n.jpg"><img src="https://image.noelshack.com/minis/2019/03/4/1547719768-48403619-202547290694692-8334010431567822848-n.png" border="0" alt="1547719768-48403619-202547290694692-8334010431567822848-n.jpg - envoi d'image avec NoelShack" title="1547719768-48403619-202547290694692-8334010431567822848-n.jpg" width=150px height= 100px align='top'/></a>
 
 </p>
 
 
 
-> les maquettes ne sont pas définitives, elles peuvent être soumises à des modifications par la suite
+> les maquettes ne sont pas définitives, elles peuvent être soumises à des modifications par la suite.
+> Veillez cliquer sur celles-ci pour visualiser les images.
 	 
 ## Delete a file
 
@@ -203,7 +204,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ0MDkyNzksMTY4Mjc4MzAyOCw3OD
+eyJoaXN0b3J5IjpbLTE4MDc4NTYxMjcsMTY4Mjc4MzAyOCw3OD
 MxMTk3MzgsNzUxMzAwODYwLDE5ODUxMTQ3NzgsLTE1NDY3NTAx
 MDYsLTE1NTQ2NTUzMDQsMTcxODExMTI5LC0xOTMzNjkzODU1XX
 0=
