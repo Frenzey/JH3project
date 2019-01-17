@@ -109,14 +109,10 @@ pouvant être vendeur ou enchérisseur (=acheteur) ,
 ## <a id="exf">IV - EXIGENCES FONCTIONNELLES </a>
 
 <h3>4.1 - Présentation générale</h3>
-<p>L’application que nous envisageons de concevoir se veut simple et efficace, c’est
-dans cet optique que nous ciblons des fonctionnalités que nous estimons
-primordiales dans un site “Ebay like”. Le schéma de cas d'utilisation ci-dessous illustre ce propos: <br>
-  
+<p>L’application que nous envisageons de concevoir se veut simple et efficace, c’est dans cet optique que nous ciblons des fonctionnalités que nous estimons primordiales dans un site “Ebay like”. Le schéma de cas d'utilisation ci-dessous illustre ce propos: <br> <br>
+<img src="https://image.noelshack.com/fichiers/2019/03/4/1547730028-diagram-2019-01-17-11-15-45.png">  
 
-<br>La cible: Etant donné que cette application se
-base sur le modèle E-bay, il parait évident qu'elle s'adresse à tout usager d'internet
-quel que soit son âge ou ses préférences personnelles.</p> 
+<br>La cible: Etant donné que cette application se base sur le modèle E-bay, il parait évident qu'elle s'adresse à tout usager d'internet quel que soit son âge ou ses préférences personnelles.</p> 
 
 <h3>4.2 - Utilisateurs</h3>
 <p>Dans un premier temps nous avons ciblé les types d'utilisateurs suivants:
@@ -263,9 +259,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzMTkzMzAsMTk2OTYxNTQwLC0xMDAzNz
-UyMDAwLDE4NzA1MzYwNTAsLTI2NjU5OTMxOCwtMTIyNDIyMTUw
-MiwtMjc5Mzc3MzQ0LDE2ODI3ODMwMjgsNzgzMTE5NzM4LDc1MT
-MwMDg2MCwxOTg1MTE0Nzc4LC0xNTQ2NzUwMTA2LC0xNTU0NjU1
-MzA0LDE3MTgxMTEyOSwtMTkzMzY5Mzg1NV19
+eyJoaXN0b3J5IjpbLTE5MTU5NzA5MzgsMTk2OTYxNTQwLC0xMD
+AzNzUyMDAwLDE4NzA1MzYwNTAsLTI2NjU5OTMxOCwtMTIyNDIy
+MTUwMiwtMjc5Mzc3MzQ0LDE2ODI3ODMwMjgsNzgzMTE5NzM4LD
+c1MTMwMDg2MCwxOTg1MTE0Nzc4LC0xNTQ2NzUwMTA2LC0xNTU0
+NjU1MzA0LDE3MTgxMTEyOSwtMTkzMzY5Mzg1NV19
 -->
