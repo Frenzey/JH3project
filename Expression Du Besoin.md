@@ -35,7 +35,9 @@ Email : julien.Hairapian@univ-evry.fr
 ## <a id="int">I - INTRODUCTION </a>
 
 1.1 - Description du document
-Le document a pour but de préciser le besoin vis à vis du projet pour le client. Il spécifie les besoins techniques et fonctionnels de l'application tout en donnant des informations sur 
+Le document a pour but de préciser le besoin vis à vis du projet pour le client. Il spécifie les besoins techniques et fonctionnels de l'application tout en donnant des informations sur le comportement de celle-ci et les possibles implémentation qu'elle peut avoir.
+
+1.2 - 
 
 ## Switch to another file
 
@@ -168,6 +170,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3NDkzNDY4LDE3MTgxMTEyOSwtMTkzMz
-Y5Mzg1NV19
+eyJoaXN0b3J5IjpbLTE1NTQ2NTUzMDQsMTcxODExMTI5LC0xOT
+MzNjkzODU1XX0=
 -->
