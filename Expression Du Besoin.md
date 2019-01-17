@@ -85,18 +85,18 @@ Pour l’interface d’accueil : <br> <br>
 - Une seconde se basant sur le comportement d’un utilisateur client
 pouvant être vendeur ou enchérisseur (=acheteur) ,
 - Une troisième portant sur un utilisateur visiteur.</p>
-
+<br>
 ><b>Wireframes Administrateur: </b> <br>
 
- <img src="https://image.noelshack.com/fichiers/2019/03/4/1547727160-picture1.png" width="" height=""> br>
+ <img src="https://image.noelshack.com/fichiers/2019/03/4/1547727160-picture1.png" width="" height=""> <br> <br>
 
 ><b>Wireframes Visiteur: </b> <br>
 
- <img src="" width="" height="">
+ <img src="" width="" height=""> <br> <br>
 
 ><b>Wireframes Client Vendeur/Enchérisseur: </b> <br>
 
- <img src="" width="" height="">
+ <img src="" width="" height=""> <br> <br>
 
 	
 
@@ -224,9 +224,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzQyNjM5LDE4NzA1MzYwNTAsLTI2Nj
-U5OTMxOCwtMTIyNDIyMTUwMiwtMjc5Mzc3MzQ0LDE2ODI3ODMw
-MjgsNzgzMTE5NzM4LDc1MTMwMDg2MCwxOTg1MTE0Nzc4LC0xNT
-Q2NzUwMTA2LC0xNTU0NjU1MzA0LDE3MTgxMTEyOSwtMTkzMzY5
-Mzg1NV19
+eyJoaXN0b3J5IjpbMTYwODkwNTg3NSwxODcwNTM2MDUwLC0yNj
+Y1OTkzMTgsLTEyMjQyMjE1MDIsLTI3OTM3NzM0NCwxNjgyNzgz
+MDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMT
+U0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2
+OTM4NTVdfQ==
 -->
