@@ -66,10 +66,14 @@ qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service
 
 <h3>3.1 - Charte graphique</h3>
 <p>LE LOGO : <br>Pour le site, le client à décidé de choisir ce logo parmi d’autre qui lui ont été
-proposés <img src="https://image.noelshack.com/fichiers/2019/03/4/1547713263-48418119-534039863777521-6212785144168710144-n.png" width=400px height= 200px align='center' margin-bottom="20px">  </p>
+proposés <img src="https://image.noelshack.com/fichiers/2019/03/4/1547713263-48418119-534039863777521-6212785144168710144-n.png" width=400px height= 200px align='center' margin-bottom="20px">  </p> <br>
 
-<p>LES MAQUETTES ET LES COULEURS :
-Pour l’interface d’accueil : <>
+<p>LES MAQUETTES ET LES COULEURS : <br>
+Pour l’interface d’accueil : </p>
+
+
+
+> les maquettes ne sont pas définitives, elles peuvent être soumises à des modifications par la suite
 	 
 ## Delete a file
 
@@ -194,7 +198,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTg2MjExNSw3NTEzMDA4NjAsMTk4NT
-ExNDc3OCwtMTU0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTEx
-MjksLTE5MzM2OTM4NTVdfQ==
+eyJoaXN0b3J5IjpbNzgzMTE5NzM4LDc1MTMwMDg2MCwxOTg1MT
+E0Nzc4LC0xNTQ2NzUwMTA2LC0xNTU0NjU1MzA0LDE3MTgxMTEy
+OSwtMTkzMzY5Mzg1NV19
 -->
