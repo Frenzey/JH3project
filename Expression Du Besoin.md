@@ -79,7 +79,13 @@ Pour l’interface d’accueil : <br> <br>
 > Veillez cliquer sur celles-ci pour visualiser les images.
 
 <h4>WIREFRAME</h4>
+<p>Les maquettes sont divisées en 3 parties: <br>
 
+ - Une première décrivant le comportement d’un utilisateur Administrateur,
+-Une seconde se basant sur le comportement d’un utilisateur client
+pouvant être vendeur ou enchérisseur (=acheteur) ,
+-Une troisième portant sur un utilisateur visiteur.
+I-Maquettes & Wireframes Administrateur</p>
 
 	 
 ## Delete a file
@@ -205,7 +211,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQxOTY1ODAsLTI3OTM3NzM0NCwxNj
+eyJoaXN0b3J5IjpbLTE2MTA2ODI1OTksLTI3OTM3NzM0NCwxNj
 gyNzgzMDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3
 OCwtMTU0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLT
 E5MzM2OTM4NTVdfQ==
