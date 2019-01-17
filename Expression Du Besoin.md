@@ -134,7 +134,7 @@ disposition sur le site web, ainsi que voir les enchères en temps réel. Il pou
 <img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Cr%C3%A9er%20un%20compte.PNG">
 <br>
 - Client: Se connecter/s’inscrire, rechercher un article, accéder à une catégorie, afficher son panier, enchérir, afficher un article, ajouter un article à son panier, passer commande, gérer ses enchères, gérer ses ventes, ajouter un article à vendre, modifier ses informations personnelles.
-<img src=""> <br>
+<img src="https://raw.githubusercontent.com/Frenzey/JH3project/master/Identification.PNG"> <br>
 D’autres potentielles fonctionnalités sont à définir par la suite avec le client.</p> 
 
 <h3>4.4 - Inventaire des données nécessaires</h3>
@@ -265,7 +265,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3ODIyMjA4LC01Njc1NjcyNTQsLTE5MT
+eyJoaXN0b3J5IjpbNjc1Mzk0NDA3LC01Njc1NjcyNTQsLTE5MT
 U5NzA5MzgsMTk2OTYxNTQwLC0xMDAzNzUyMDAwLDE4NzA1MzYw
 NTAsLTI2NjU5OTMxOCwtMTIyNDIyMTUwMiwtMjc5Mzc3MzQ0LD
 E2ODI3ODMwMjgsNzgzMTE5NzM4LDc1MTMwMDg2MCwxOTg1MTE0
