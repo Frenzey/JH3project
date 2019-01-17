@@ -92,7 +92,10 @@ pouvant être vendeur ou enchérisseur (=acheteur) ,
 
 ><b>Wireframes Visiteur: </b> <br>
 
- <img src="" width="" height=""> <br> <br>
+<img src="https://image.noelshack.com/fichiers/2019/03/4/1547727390-picture2.png" width="" height=""> <br>
+<img src="" width="" height=""> <br> 
+<img src="" width="" height=""> <br>
+<br> <br>
 
 ><b>Wireframes Client Vendeur/Enchérisseur: </b> <br>
 
@@ -224,9 +227,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODkwNTg3NSwxODcwNTM2MDUwLC0yNj
-Y1OTkzMTgsLTEyMjQyMjE1MDIsLTI3OTM3NzM0NCwxNjgyNzgz
-MDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMT
-U0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2
-OTM4NTVdfQ==
+eyJoaXN0b3J5IjpbLTE5MTUxNDM2OTIsMTg3MDUzNjA1MCwtMj
+Y2NTk5MzE4LC0xMjI0MjIxNTAyLC0yNzkzNzczNDQsMTY4Mjc4
+MzAyOCw3ODMxMTk3MzgsNzUxMzAwODYwLDE5ODUxMTQ3NzgsLT
+E1NDY3NTAxMDYsLTE1NTQ2NTUzMDQsMTcxODExMTI5LC0xOTMz
+NjkzODU1XX0=
 -->
