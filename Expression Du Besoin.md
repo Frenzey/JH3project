@@ -34,7 +34,8 @@ Email : julien.Hairapian@univ-evry.fr
 
 ## <a id="int">I - INTRODUCTION </a>
 
-1.1 - Description du document </p>
+1.1 - Description du document
+Le document a pour but de préciser le besoin vis à vis du projet pour le client. 
 
 ## Switch to another file
 
@@ -167,5 +168,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzQ0MzIyNiwtMTkzMzY5Mzg1NV19
+eyJoaXN0b3J5IjpbMTA5NTM3ODkxMSwtMTkzMzY5Mzg1NV19
 -->
