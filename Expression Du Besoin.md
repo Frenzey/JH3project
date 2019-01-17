@@ -107,7 +107,7 @@ pouvant être vendeur ou enchérisseur (=acheteur) ,
 <br> <br>
 
 
-## <a id="#exf">IV - EXIGENCES FONCTIONNELLES </a>
+## <a id="exf">IV - EXIGENCES FONCTIONNELLES </a>
 
 <h3>4.1 - Présentation générale</h3>
 <p>L’application que nous envisageons de concevoir se veut simple et efficace, c’est
@@ -129,9 +129,8 @@ disposition sur le site web, ainsi que voir les enchères en temps réel. Il pou
 <h3>4.4 - Inventaire des données nécessaires</h3>
 <h3>4.5 - Autres exigences fonctionnelles</h3>
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
-## Export a file
+## <a id="ext">V - EXIGENCES TECHNIQUES
 
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
 
@@ -250,7 +249,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzAyNzMyMiwxODcwNTM2MDUwLC0yNj
+eyJoaXN0b3J5IjpbMTg2MTM3NTc5MiwxODcwNTM2MDUwLC0yNj
 Y1OTkzMTgsLTEyMjQyMjE1MDIsLTI3OTM3NzM0NCwxNjgyNzgz
 MDI4LDc4MzExOTczOCw3NTEzMDA4NjAsMTk4NTExNDc3OCwtMT
 U0Njc1MDEwNiwtMTU1NDY1NTMwNCwxNzE4MTExMjksLTE5MzM2
