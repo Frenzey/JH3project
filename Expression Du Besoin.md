@@ -13,7 +13,7 @@ Email : julien.Hairapian@univ-evry.fr
 
 # Sommaire
 
-1.  <a href="#"> INTRODUCTION </a>
+1.  <a href="#int"> INTRODUCTION </a>
 1.1 - Description du document
 1.2 - Présentation du contexte <br>
 
@@ -32,7 +32,7 @@ Email : julien.Hairapian@univ-evry.fr
 4.5 - Autres exigences fonctionnelles <br>
 5. <a href="#"> EXIGENCES TECHNIQUES </a> 
 
-## Create files and folders
+## <a href="#int">I - INTRODUCTION </a>
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
@@ -167,5 +167,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzM2OTM4NTVdfQ==
+eyJoaXN0b3J5IjpbMTQ4NzIyMTA5NiwtMTkzMzY5Mzg1NV19
 -->
