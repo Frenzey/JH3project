@@ -65,7 +65,7 @@ qui voudrait effectuer une vente d’un objet/article/produit (ou d’un service
 
 <h3>3.1 - Charte graphique</h3>
 <h4>LE LOGO :</h4><p>Pour le site, le client à décidé de choisir ce logo parmi d’autre qui lui ont été
-proposés: <br/> <center><img src="https://image.noelshack.com/minis/2019/03/4/1547719801-48418119-534039863777521-6212785144168710144-n.png" border="0" alt="1547719801-48418119-534039863777521-6212785144168710144-n.png - envoi d'image avec NoelShack" title="1547719801-48418119-534039863777521-6212785144168710144-n.png" width=250px height= 200px>  </p> <br><>
+proposés: <br/> <center><img src="https://image.noelshack.com/minis/2019/03/4/1547719801-48418119-534039863777521-6212785144168710144-n.png" border="0" alt="1547719801-48418119-534039863777521-6212785144168710144-n.png - envoi d'image avec NoelShack" title="1547719801-48418119-534039863777521-6212785144168710144-n.png" width=250px height= 200px>  </p> <br><center/>
 
 <h4><p>LES MAQUETTES ET LES COULEURS :</h4>
 Pour l’interface d’accueil : <br> <br>
@@ -154,7 +154,7 @@ ventes/enchères, donner nouvel article</p>
  - Performance: Nous attacherons une attention particulière à ce que le temps de réponse soit raisonnable. <br><br>
  - Possibilité d'effectuer des mises à jour, ainsi que des ajouts de fonctionnalités au fur et à mesure de l'avancement du projet</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzMTg0MjQ4LDY5MzM0MDI0MywtNTY3NT
+eyJoaXN0b3J5IjpbNzU2MDczNjk2LDY5MzM0MDI0MywtNTY3NT
 Y3MjU0LC0xOTE1OTcwOTM4LDE5Njk2MTU0MCwtMTAwMzc1MjAw
 MCwxODcwNTM2MDUwLC0yNjY1OTkzMTgsLTEyMjQyMjE1MDIsLT
 I3OTM3NzM0NCwxNjgyNzgzMDI4LDc4MzExOTczOCw3NTEzMDA4
