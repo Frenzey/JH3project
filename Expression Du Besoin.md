@@ -5,7 +5,7 @@ Par
 Lyes BELKHIRI
 Yahia RAHMANI**</b>
 
-<img src="https://image.noelshack.com/fichiers/2019/03/4/1547713263-48418119-534039863777521-6212785144168710144-n.png" width=400px height= 200px align='center' margin="600px">
+<center><align='center' <img src="https://image.noelshack.com/fichiers/2019/03/4/1547713263-48418119-534039863777521-6212785144168710144-n.png" width=400px height= 200px margin="600px"><center />
 
 Nom du projet : **JH3**
 Personne à contacter à l’université: **Julien Hairapian**.
@@ -154,10 +154,10 @@ ventes/enchères, donner nouvel article</p>
  - Performance: Nous attacherons une attention particulière à ce que le temps de réponse soit raisonnable. <br><br>
  - Possibilité d'effectuer des mises à jour, ainsi que des ajouts de fonctionnalités au fur et à mesure de l'avancement du projet</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzMzQwMjQzLC01Njc1NjcyNTQsLTE5MT
-U5NzA5MzgsMTk2OTYxNTQwLC0xMDAzNzUyMDAwLDE4NzA1MzYw
-NTAsLTI2NjU5OTMxOCwtMTIyNDIyMTUwMiwtMjc5Mzc3MzQ0LD
-E2ODI3ODMwMjgsNzgzMTE5NzM4LDc1MTMwMDg2MCwxOTg1MTE0
-Nzc4LC0xNTQ2NzUwMTA2LC0xNTU0NjU1MzA0LDE3MTgxMTEyOS
-wtMTkzMzY5Mzg1NV19
+eyJoaXN0b3J5IjpbMTgzOTg5NTE2NCw2OTMzNDAyNDMsLTU2Nz
+U2NzI1NCwtMTkxNTk3MDkzOCwxOTY5NjE1NDAsLTEwMDM3NTIw
+MDAsMTg3MDUzNjA1MCwtMjY2NTk5MzE4LC0xMjI0MjIxNTAyLC
+0yNzkzNzczNDQsMTY4Mjc4MzAyOCw3ODMxMTk3MzgsNzUxMzAw
+ODYwLDE5ODUxMTQ3NzgsLTE1NDY3NTAxMDYsLTE1NTQ2NTUzMD
+QsMTcxODExMTI5LC0xOTMzNjkzODU1XX0=
 -->
